@@ -1,0 +1,28 @@
+*{
+    background-color: black;
+}
+
+h1{
+color: white;
+}
+
+p{
+    color: white;
+}
+
+.Gaxes{
+    text-decoration: none;
+    color: white;
+    background-color: grey;
+}
+
+footer{
+    padding: 20px;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    background: #24252A;
+    color: white;
+    font-family: Arial;
+    letter-spacing: 1px;
+}
